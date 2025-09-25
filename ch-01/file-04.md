@@ -94,8 +94,6 @@
 
 ------------------------------------------------------------------------
 
----  
-
 ✍️ **Eks2 Diary**  
 Created & Curated by  
 **Muhammad Naveed Ishaque (Eks2)**  
