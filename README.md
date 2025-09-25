@@ -1,80 +1,85 @@
-# 🌍 Siraat Truth Journey
+# 🌌 Siraat Truth Journey  
 
-A universal project of timeless wisdom — exploring the straight path of truth, compassion, and inner growth.  
-This repository preserves and presents ethical, moral, and philosophical reflections in **soft, clear Urdu notes** as well as other human languages, so that people everywhere can benefit from universal guidance.  
-
----
-
-## ✨ Vision
-
-To share **universal truths** that:  
-- Elevate the soul 🌿  
-- Guide humanity towards justice ⚖️  
-- Inspire love and compassion 💖  
-- Protect against ignorance and despair 🚫  
+> "The Straight Path — not just a way, but a cosmic journey of the soul towards clarity, justice, and eternal light."  
 
 ---
 
-## 📂 Repository Structure
+## 🌠 Vision Beyond the Stars  
 
-- `universal_truths_urdu.md` → Original Urdu-script reflections  
-- `translations/` → Future translations in English & other languages  
-- `notes/` → Extended ethical, philosophical, and practical notes  
-- `resources/` → References, diagrams, and supporting material  
+یہ صرف ایک repository نہیں، یہ ایک **سفرِ حق** ہے۔  
+ایک ایسی یاد دہانی جو دلوں کو جھنجھوڑتی ہے، روح کو جگاتی ہے اور انسانیت کو بتاتی ہے کہ سچائی، رحمت اور عدل ہمیشہ باقی رہنے والے ہیں۔  
 
----
-
-## 🌱 Why This Matters
-
-In a world often divided by language, culture, and belief, we aim to remind humanity of what unites us:  
-- **Gratitude**  
-- **Compassion**  
-- **Justice**  
-- **Humility**  
-- **Truth-seeking**  
-
-These values are not bound by any single tradition — they are timeless and universal.  
+یہ سفر ہمیں زمین سے کہکشاؤں تک لے جاتا ہے — اور پھر واپس دل کے اندر، جہاں اصل حقیقت پوشیدہ ہے۔  
 
 ---
 
-## 🚀 How to Use
+## ✨ Core Essence  
 
-1. Read the notes mindfully.  
-2. Reflect on how they apply in your personal life.  
-3. Share with others in the spirit of kindness and openness.  
-4. Contribute translations or reflections through pull requests.  
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from all who wish to add:  
-- Translations 🌍  
-- Commentaries 📜  
-- Practical guides 💡  
-- Creative formats (audio, visuals, infographics) 🎨  
-
-Please ensure that contributions remain **ethical, universal, and respectful**.  
+- 🌿 **Gratitude** → ہر سانس شکر کا تحفہ ہے۔  
+- 💖 **Compassion** → انسانیت کا اصل زیور مہربانی ہے۔  
+- ⚖️ **Justice** → ہر عمل کا وزن ہے، ہر فیصلے کی گونج ہے۔  
+- 🌱 **Humility** → اصل عظمت عاجزی میں ہے۔  
+- 🔭 **Truth-Seeking** → کائنات ایک کھلا راز ہے، مگر دل ہی اس کی کنجی ہے۔  
 
 ---
 
-## 📜 License
+## 📂 Repository Structure  
 
-This project is shared under the **Creative Commons (CC BY-NC 4.0 License)**.  
-You are free to share and adapt with proper attribution, **non-commercially**.  
-
----
-
-## 💫 Call to Action
-
-Let us together walk the **Truth Journey**:  
-- 🌟 Live with gratitude  
-- 🌟 Spread compassion  
-- 🌟 Uphold justice  
-- 🌟 Seek knowledge and wisdom  
-- 🌟 Be a light for others  
+- `universal_truths_urdu.md` → نرم اور دلنشین اُردو عکاسیاں  
+- `translations/` → زبانوں کی سرحدوں سے پرے روشنی کی شراکت  
+- `notes/` → اخلاقی و فلسفیانہ تفکر کی وسعتیں  
+- `resources/` → بصری و فکری مواد برائے فہمِ حقیقت  
 
 ---
 
-> **Siraat Truth Journey** is not just a repository, it is an **invitation to humanity** —  
-> towards light, clarity, and the straight path of truth.
+## 🌍 Why This Matters  
+
+اس دنیا میں جہاں شور بہت ہے، یہ سفر ہمیں سکوت کی طرف لے جاتا ہے۔  
+جہاں نفرت ہے، یہ محبت کی یاد دہانی ہے۔  
+جہاں اندھیرا ہے، یہ روشنی کا دیا ہے۔  
+
+یہ repository ایک ایسی **روحانی لائبریری** ہے جو دل کو نرم کرتی ہے اور کردار کو سنوارتی ہے۔  
+
+---
+
+## 🚀 How to Embark on the Journey  
+
+1. پڑھیں — مگر دل کے ساتھ۔  
+2. غور کریں — اور اپنی حقیقت تلاش کریں۔  
+3. عمل کریں — روزمرہ زندگی میں ان اصولوں کو اپنائیں۔  
+4. بانٹیں — کہ روشنی بڑھتی ہے جب تقسیم ہوتی ہے۔  
+
+---
+
+## 🤝 Contributing  
+
+یہ سفر سب کے لیے ہے۔  
+اگر آپ ترجمہ، تشریح، یا تخلیقی انداز میں اپنی شراکت دینا چاہتے ہیں تو خوش آمدید۔  
+بس یاد رہے: یہاں صرف **اخلاق، محبت اور روشنی** کی گنجائش ہے۔  
+
+---
+
+## 📜 License  
+
+**Creative Commons (CC BY-NC 4.0 License)**  
+اس روشنی کو آگے بڑھائیں، مگر تجارتی مقصد کے بغیر۔  
+
+---
+
+## 💫 Call to Humanity  
+
+آئیے مل کر اس راہ پر چلیں:  
+- 🌟 شکر کو زندگی کا محور بنائیں۔  
+- 🌟 مہربانی کو ہر رشتے کا زیور بنائیں۔  
+- 🌟 عدل کو ہر فیصلے کی بنیاد بنائیں۔  
+- 🌟 سچائی کو اپنا اصل سرمایہ بنائیں۔  
+- 🌟 اور اپنی روشنی سے دوسروں کو راستہ دکھائیں۔  
+
+---
+
+## ✍️ Created & Curated by  
+**Muhammad Naveed Ishaque (Eks2)**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+
+🕊️ **Siraat AI Academy**  
+*"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
