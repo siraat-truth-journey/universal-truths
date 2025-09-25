@@ -95,10 +95,13 @@
 
 ------------------------------------------------------------------------
 
-✍️ **Created & Curated by**\
-**Muhammad Naveed Ishaque (Eks2)**\
-*Content Creator \| AI Writer \| Narrative Simplifier*\
-🕊️ **Siraat AI Academy**\
-*"The Straight Path --- Empowering minds with clarity, illuminating
-paths with purpose."*\
----
+
+✍️ **Eks2 Diary**  
+Created & Curated by  
+**Muhammad Naveed Ishaque (Eks2)**  
+*Content Creator | AI Writer | Narrative Simplifier*  
+
+🕊️ **Siraat AI Academy**  
+*"The Straight Path — Empowering minds with clarity, illuminating paths with purpose."*  
+
+---  
